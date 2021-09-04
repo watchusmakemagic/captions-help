@@ -25,7 +25,7 @@ Caption Portal supports pre-formatted captions in [WebVTT](https://developer.moz
 
 To upload a WebVTT file, navigate to your Caption Portal and click the `WebVTT` button in the main menu. 
 
-![Add a WebVTT file](https://cdn.watchusmakemagic.com/help/add_webvtt.jpg)
+![Add a WebVTT file](https://cdn.watchusmakemagic.com/help/add_webvtt.gif)
 
 Click the `Choose file` button and select a WebVTT file from your machine and then click the `UPLOAD WEBVTT` button.
 
