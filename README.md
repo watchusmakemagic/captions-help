@@ -136,7 +136,7 @@ Ensure that Key Colour Type is 'Green' and then adjust the 'Similarity (1-1000)'
 
 Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on personal devices such as mobile phones or tableys. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Viewer` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu. 
 
-The following query parameters can be used to customised the display,
+The following query parameters can be used to customise the display,
 
 * `font_color` e.g. blue
 * `font_family` e.g. monospace
@@ -148,7 +148,7 @@ The following query parameters can be used to customised the display,
 
 Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on personal devices such as mobile phones or tableys. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Viewer` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu.
 
-The following query parameters can be used to customised the display,
+The following query parameters can be used to customise the display,
 
 * `font_color` e.g. blue
 * `font_family` e.g. monospace
