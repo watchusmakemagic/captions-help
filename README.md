@@ -134,7 +134,7 @@ Ensure that Key Colour Type is 'Green' and then adjust the 'Similarity (1-1000)'
 
 #### Viewer (for personal devices)
 
-Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on personal devices such as mobile phones or tableys. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Viewer` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu. 
+Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on personal devices such as mobile phones or tablets. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Viewer` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu. 
 
 The following query parameters can be used to customise the display,
 
@@ -144,9 +144,9 @@ The following query parameters can be used to customise the display,
 * `text_align` e.g. left
 * `viewercontrols` e.g. none
 
-#### Viewer (for displays, televisions and video walls)
+#### Scroller (for displays, televisions and video walls)
 
-Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on personal devices such as mobile phones or tableys. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Viewer` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu.
+Caption Portal can present captions to an In-person or Hybrid audience who wish to view captions on a display, television or video wall. You can direct these viewers to a URL in the Caption Portal by copying the URL of the `Scroller` option in the main menu, or by sharing the QR code available from the `QR Code` option in the main menu.
 
 The following query parameters can be used to customise the display,
 
